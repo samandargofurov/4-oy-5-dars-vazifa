@@ -68,17 +68,17 @@
 // 6-masala
 // Berilgan sonni teskari tartibda yozuvchi algoritm yozing.
 
-let n = 123;
-let res;
-let counter = 0;
+// let n = 123;
+// let res;
+// let counter = 0;
 
-let i = 1;
-while (1 <= n) {
-    res = n / 100;
-    res = (n / 10) % 10;
-    res = (n % 10);
+// let i = 1;
+// while (1 <= n) {
+//     res = n / 100;
+//     res = (n / 10) % 10;
+//     res = (n % 10);
 
-    counter++;
-}
+//     counter++;
+// }
 
-console.log(res);
+// console.log(res);
